@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Hola 😎](./img/welcome-olegkruchay.png "Hola 😎")](https://olegkruchay.com) 
 
 <!--
 **OlegScout/OlegScout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
